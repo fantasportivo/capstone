@@ -6,8 +6,7 @@ The main subject interested in the analysis is certainly the company that has en
 
 Dataset
 
-
-In this analysis are used as main data those relating to the different districts of the city of Toronto, taken from a public page of wikipedia. This is how the database is constructed, from which the restaurants in which the advertising campaign will be identified and the subsequent clustering of restaurants will be defined.
+In this analysis are used data relating to the different districts near to Toronto, after an activity of web scraping from a public wikipedia page. This is how the database is constructed, from which the restaurants in which the advertising campaign will be identified and the subsequent clustering of restaurants will be defined.
 After identifying the corresponding latitude and longitude data for each district, we proceed to search for restaurant data through the use of the foursquare site in the developer section.
 The data obtained is then filtered to make clearer the reference to the name of the room and the category to which it belongs, in addition to the respective coordinates of geolocation.
 

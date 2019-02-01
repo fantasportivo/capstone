@@ -1,5 +1,0 @@
-Dataset
-
-In order to develop our project, we can use dataset of postal code of Canada, merged with geolocalization of single neighborhoods. This project wants to define a common starting point for a generic analyisis useful for other places.
-Our dataset includes 103 rows and 5 columns where for every borough and neighborhood we have the corresponding latitude and longitude.
-In this way we can cluster different venues related to their position.

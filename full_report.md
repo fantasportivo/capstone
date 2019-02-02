@@ -12,4 +12,8 @@ The data obtained are filtered  in order to make clearer name of restaurant and 
 
 <b>Methodology</b>
 
-First of all, we import library useful to our analysis, such as pandas, numpy, random, request, matplotlib and more over(detailed in our report step by step). Pandas is early used to build a dataframe of neighborhoods and their latitude and longitude. In particular we used classic method of reading csv and transforming it into a dataframe.
+First of all, we import library useful to our analysis, such as pandas, numpy, random, request, matplotlib and more over(detailed in our report step by step). Pandas is early used to build a dataframe of neighborhoods and their latitude and longitude. In particular we used classic method of reading csv and transforming it into a dataframe (103 columns, 5 rows).
+Next step is to discover what restaurants are near to our geolocations. In order to do that, we used foursquare site. In particular through an api we can extract venues and their characteristics. Data are extracted in a json file that has to be converted in a dataframe using jnormalize. Now we can filtered dataframe because a clear structure allow us to do a correct analysis.
+Then, after loading folium library, we can show in a very simple, but detailed, map every neighborhood and their restaurants. This phase is important to do a first evaluation about our marketing strategy. In fact, we can observe where are concentrated more restaurants and in general their disposition.
+
+

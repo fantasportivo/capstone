@@ -29,3 +29,4 @@ Moreover, we can evaluate if there are already delivery services in theese areas
 
 <b>Conclusion</b>
 
+As every analysis, results are just the beginning for other evaluations and analysis. Power of results are simply an opportunity to discover new aspects and develop project in different areas of study. Ability of a data scientist is to observe reality and to image results of his analysis as a starting point for a more complex structure. This were the initial goals of this analysis and i hope to have reached them.

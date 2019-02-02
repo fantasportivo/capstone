@@ -9,3 +9,7 @@ The main subject interested in the analysis is certainly the company that has en
 In this analysis are used data relating to the different districts near to Toronto, after an activity of web scraping from a public wikipedia page. Starting from this database, we can identify restaurants where the advertising campaign will be taken and the subsequent clustering.
 After identifying the corresponding latitude and longitude for each neighborhood, we proceed to search restaurant's data on foursquare site, using developer section.
 The data obtained are filtered  in order to make clearer name of restaurant and its category, in addition to the respective coordinates of geolocation. The final result is a data merger that allow us to show on a map all restaurants divided, by colours, in 5 clusters.
+
+<b>Methodology</b>
+
+First of all, we import library useful to our analysis, such as pandas, numpy, random, request, matplotlib and more over(detailed in our report step by step). Pandas is early used to build a dataframe of neighborhoods and their latitude and longitude. In particular we used classic method of reading csv and transforming it into a dataframe.

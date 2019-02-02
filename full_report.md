@@ -19,3 +19,6 @@ Now, one of the most  important phases of our analysis is k-means clustering. Th
 
 <b>Results</b>
 
+Results of our analysis are based on the final process of clustering. In fact we can support firm that has commissioned this project through the definition of 5 peer groups where it can develop its marketing strategy. The importance of this analysis is connected to the ability of simplify decisions that firm have to take. In fact is too expensive starting a campaign in every restaurants and is less efficient applying the same strategy to every neighborhoods. Moreover this analysis is a base for a next evaluation about customers' behaviours. 
+
+<b>Discussion section</b>
